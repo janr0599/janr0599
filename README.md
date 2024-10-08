@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @janr0599
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front end development
-- 💞️ I’m looking to collaborate on web development projects
+- 🤝🏽 I’m looking to collaborate on web development projects
 - 📫 How to reach me javiernr0599@gmail.com
 
 <!---
